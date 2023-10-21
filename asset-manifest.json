@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/luciennefranco-react/static/css/main.7ec8050c.css",
+    "main.js": "/luciennefranco-react/static/js/main.9181ef69.js",
+    "static/media/lucienne.jpg": "/luciennefranco-react/static/media/lucienne.c5b0865f69439903a132.jpg",
+    "static/media/lucyResume.png": "/luciennefranco-react/static/media/lucyResume.4bc209e3c114d3839f29.png",
+    "static/media/LF.png": "/luciennefranco-react/static/media/LF.60584b979f64f931c21d.png",
+    "index.html": "/luciennefranco-react/index.html",
+    "static/media/events.svg": "/luciennefranco-react/static/media/events.e3d991cec584011860c5cb5a691e9e19.svg",
+    "static/media/menu.svg": "/luciennefranco-react/static/media/menu.90a03478e6de40afb1d1522e73a85814.svg",
+    "static/media/videos.svg": "/luciennefranco-react/static/media/videos.34643ed6283752e1057dac7dd0ba41a2.svg",
+    "main.7ec8050c.css.map": "/luciennefranco-react/static/css/main.7ec8050c.css.map",
+    "main.9181ef69.js.map": "/luciennefranco-react/static/js/main.9181ef69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ec8050c.css",
+    "static/js/main.9181ef69.js"
+  ]
+}
