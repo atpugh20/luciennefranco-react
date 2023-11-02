@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.04385fa6.css",
+    "main.css": "/static/css/main.0ccbc558.css",
     "main.js": "/static/js/main.482c9eb3.js",
     "static/media/lucienne.jpg": "/static/media/lucienne.c5b0865f69439903a132.jpg",
     "static/media/lucyResume.png": "/static/media/lucyResume.4bc209e3c114d3839f29.png",
@@ -11,11 +11,11 @@
     "static/media/contact.svg": "/static/media/contact.69cf757f5115e7a9b0ff9ebf371bf3e6.svg",
     "static/media/menu.svg": "/static/media/menu.90a03478e6de40afb1d1522e73a85814.svg",
     "static/media/videos.svg": "/static/media/videos.295bafedaa4b5e761570cd99d38c09b1.svg",
-    "main.04385fa6.css.map": "/static/css/main.04385fa6.css.map",
+    "main.0ccbc558.css.map": "/static/css/main.0ccbc558.css.map",
     "main.482c9eb3.js.map": "/static/js/main.482c9eb3.js.map"
   },
   "entrypoints": [
-    "static/css/main.04385fa6.css",
+    "static/css/main.0ccbc558.css",
     "static/js/main.482c9eb3.js"
   ]
 }
